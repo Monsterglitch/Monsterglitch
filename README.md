@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently learning Machine Learning & Deep Neural Networks
+🚀 I'm currently learning Machine Learning Models & Deep Neural Networks
 
 
 ## 🌐 Socials:
